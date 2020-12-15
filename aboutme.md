@@ -16,9 +16,13 @@ title: About me
 ### **Education**
 
 - ***Bachelor, Beihang University***
+	
 	2013 - 2017
-  	Thesis entitled "Design and Implementation of Algorithm Library and System for Anomalous Subgraph Detection" (advised by Jianxin Li)
+  	
+  	Thesis entitled "Design and Implementation of Algorithm Library and System for Anomalous Subgraph Detection" (advised by [Jianxin Li](http://act.buaa.edu.cn/lijx/))
 
 - ***Ph.D Student, Tsinghua University***
+	
 	2017 - present
-  	Under supervision of Wenfei Wu
+  	
+  	Under supervision of [Wenfei Wu](https://wenfei-wu.github.io)
