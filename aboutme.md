@@ -1,16 +1,24 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+* Currently 4th year Ph.D. student at Dr. [Wenfei Wu](https://wenfei-wu.github.io)’s lab in *Tsinghua University*
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+* Research interest in ***networking function virtualization*** (modeling, orchestration, verification), ***network management*** and ***emerging programmable hardware (P4)*** for redefining network
 
-What else do you need?
+* Following newly overlaps between ***AI technologies*** and ***networking***
 
-### My story
+  >  More information from [my CV]({{https://hongyi-huang.github.io}}/files/test.pdf) 
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+<br/>
+
+### **Education**
+
+- ***Bachelor, Beihang University***
+	2013 - 2017
+  	Thesis entitled "Design and Implementation of Algorithm Library and System for Anomalous Subgraph Detection" (advised by Jianxin Li)
+
+- ***Ph.D Student, Tsinghua University***
+	2017 - present
+  	Under supervision of Wenfei Wu
