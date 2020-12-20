@@ -12,9 +12,9 @@ title: Publications
 
 4. Harsha Sharma, Wenfei Wu, and Bangwen Deng. ***Symbolic Execution for Network Functions with Time-Driven Logic***. In Proceedings of the 2020 Symposium on Modelling, Analysis, and Simulation of Computer and Telecommunication Systems. (**MASCOTS ’20**) [[pdf]](/files/Harsha-NF_SE.pdf)
 
-5. Soo-Jin Moon, Jeffrey Helt, Yifei Yuan, Yves Bieri, Sujata Banerjee, Vyas Sekar, Wenfei Wu, Mihalis Yannakakis, and Ying Zhang. “Alembic: Automated Model Inference for Stateful Network Func- tions”. In: Proceedings of the 16th USENIX Symposium on Networked Systems Design and Implementation. (**NSDI ’19**) [[pdf]](/files/2019_NSDI_Alembic.pdf)
+5. Soo-Jin Moon, Jeffrey Helt, Yifei Yuan, Yves Bieri, Sujata Banerjee, Vyas Sekar, Wenfei Wu, Mihalis Yannakakis, and Ying Zhang. ***Alembic: Automated Model Inference for Stateful Network Func- tions***. In Proceedings of the 16th USENIX Symposium on Networked Systems Design and Implementation. (**NSDI ’19**) [[pdf]](/files/2019_NSDI_Alembic.pdf)
 
-6. Wenfei Wu, Ying Zhang, and Sujata Banerjee. “Automatic Synthesis of NF Models by Program Analysis”. In: Proceedings of the 15th ACM Workshop on Hot Topics in Networks. (**HotNets ’16**) [[pdf]](/files/2016_HotNets_NFactor.pdf)
+6. Wenfei Wu, Ying Zhang, and Sujata Banerjee. ***Automatic Synthesis of NF Models by Program Analysis***. In Proceedings of the 15th ACM Workshop on Hot Topics in Networks. (**HotNets ’16**) [[pdf]](/files/2016_HotNets_NFactor.pdf)
 
 
 # Posters
