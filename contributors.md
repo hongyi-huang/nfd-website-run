@@ -2,8 +2,12 @@
 layout: page
 title: Contributors
 ---
+## Faculty:
 
 **[Wenfei Wu](https://wenfei-wu.github.io)**: Asistant Professor (Tsinghua University).
+
+
+## Student:
 
 **[Hongyi Huang](https://hongyi-huang.com)**: PhD Student (Tsinghua University).
 
