@@ -6,16 +6,16 @@
 # --- Required options --- #
 
 # Name of website
-title: Hongyi Huang's Homepage
+title: NetFuncDev
 
 # Your name to show in the footer
-author: Hongyi Huang
+author: NetLabIIIS
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   publications: "publications"
-  Projects: "projects"
+  contributors: "contributors"
 
 # --- Logo --- #
 
@@ -37,13 +37,13 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "hhy.hongyi@outlook.com"
-  facebook: hongyi.huang.9406
-  github: fjzzhongyi
-  twitter: HowieHhy
+#  facebook: hongyi.huang.9406
+#  github: fjzzhongyi
+#  twitter: HowieHhy
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  reddit: yourname
-  linkedin: hongyi-huang-ab6b52151
+#  linkedin: hongyi-huang-ab6b52151
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -61,7 +61,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: This website is about Model-Driven DevOps for Network Functions.
 
 # --- General options --- #
 
@@ -74,7 +74,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "hongyi-huang.com"
+url-pretty: "nfd.hongyi-huang.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
