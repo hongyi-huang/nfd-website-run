@@ -14,4 +14,4 @@ NFV ecosystem is flourishing and more and more NF platforms appear, but this mak
 Moreover, NF development using our model-based method can greatly facilitate logic optimizations(**NFReducer**) and verifications(**NF-SE**) as well.
 
 
-We have open source NF models and codes in [Github](https://github.com/NetFuncDev/nfd/tree/master/NF_examples). NFD is also released on [OpenNetVM](https://github.com/sdnfv/openNetVM/tree/master/examples/NFD).
+We have open source NF models and codes in [openNFD](https://github.com/openNFD/NFD). NFD is also released on [OpenNetVM](https://github.com/sdnfv/openNetVM/tree/master/examples/NFD).
