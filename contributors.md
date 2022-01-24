@@ -13,6 +13,8 @@ title: Contributors
 
 **[Yongchao He](https://yongchaohe.github.io/)**: PhD Student (Tsinghua University).
 
+**Shaoke Fang: Master Student (Tsinghua University).
+
 ## Alumni:
 
 **[Bangwen Deng](https://evandengdbw.github.io)**: Master Student (Tencent).
